@@ -2,3 +2,4 @@ This is a dummy file.
 Some text added in the local device.
 This is the second time i'm adding some texts.
 This text is added in the remote repo, now we're gona pull it from the local device.
+Editing into bug-fix branch
