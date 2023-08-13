@@ -6,3 +6,4 @@ Editing into bug-fix branch
 Changing the file after learning github branching and merging, now it's time for git branch and merging.
 Adding text into test1.txt from feature2 branch.
 Solving the bug fixing issue
+issue 3 reopened.
