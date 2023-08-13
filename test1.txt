@@ -5,3 +5,4 @@ This text is added in the remote repo, now we're gona pull it from the local dev
 Editing into bug-fix branch
 Changing the file after learning github branching and merging, now it's time for git branch and merging.
 Adding text into test1.txt from feature2 branch.
+Solving the bug fixing issue
